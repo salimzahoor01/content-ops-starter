@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Bringing your vision to life with innovation.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Zenifyr is a dynamic freelancing agency offering innovative design and
+      development solutions. We specialize in crafting customized digital
+      experiences that drive growth. Our expert team combines creativity with
+      technical expertise to help your business thrive in the digital world.
     actions:
       - label: Get started
         altText: ''
