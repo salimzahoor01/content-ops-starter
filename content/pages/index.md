@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unb
+      text: Creative solutions. Expert design and development services.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
