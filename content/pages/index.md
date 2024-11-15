@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: HEY
+      label: ZENIFYR
       color: text-primary
       type: Badge
     elementId: ''
