@@ -102,7 +102,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "```\nCopyright Zenifyr 2024. All rights are reserved\n```\n\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
