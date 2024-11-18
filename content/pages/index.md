@@ -54,7 +54,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Services We Provide
+      text: ''
       color: text-dark
       styles:
         self:
